@@ -8,5 +8,5 @@ Spam Classifier using the following 2 methods:
   <b>Dataset Used : emails.csv. 
   </b>
   
-     Note: This dataset contains 2 columns named text and spam. It has around 5500 entries with large test sentences in each entry.
+     Note: This dataset contains 2 columns named text and spam. It has around 5500 entries with huge sentences in each entry.
   
