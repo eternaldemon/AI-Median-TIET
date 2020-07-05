@@ -11,5 +11,7 @@
       Dataset Used : emails.csv
       Note: This dataset contains 2 columns named text and spam. It has around 5500 entries with huge sentences in each entry.
   
-
-
+      Accuracy:
+      1. Basic Version - 98.77% after 240 iterations
+      2. Advanced Version - 99.21% after 12 epochs(2 shown and 10 were saved and loaded weights from a previous training session)
+      
